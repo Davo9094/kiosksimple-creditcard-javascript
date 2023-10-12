@@ -6,8 +6,9 @@ By automatically populating the credit card payment fields you reduce the potent
 
 The following fields are contained in the track data on most credit cards and can be easily parsed from the credit card data using JavaScript when the customer swipes their credit card.
 
-- Cardholder’s Name
-- Card Number
-- Expiration Date
+- card holders name christt a molinaa  
+- Card Number 5175 7200 1243 8751
+- Expiration Date 12/2023
+find file 
 
-The full instructions on how to setup this example can be found on our blog here https://www.kiosksimple.com/blogs/news/how-to-parse-credit-card-data-from-a-magnetic-stripe-reader-using-javascript
+
